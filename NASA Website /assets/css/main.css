@@ -31,7 +31,6 @@ img {
     background-repeat: repeat;
     background-size: cover;
     background-position: center center;
-    background-image: url('assets/img/bg/22222.jpg')
     z-index: 9;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -96,7 +95,7 @@ img {
 }
 .tlinks{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 .awe-overlay {
-    background-color: rgba(0, 0, 0, .4);
+    background-color: rgba(0, 0, 0, 100);
 }
 
 .bg-fixed {
@@ -104,7 +103,8 @@ img {
 }
 
 .awe-bg-cover {
-    background-repeat: no-repeat;
+    
+    background-repeat: repeat;
     background-size: cover;
     background-position: center center;
 }
