@@ -36,8 +36,10 @@ https://github.com/Cuchavira/Starzinspace.github.i...
 #Reference
 
 Bayer, A. (2018). Solar System Scope. [online] Solar System Scope. Available at: https://www.solarsystemscope.com/spacepedia/handbook/jupiter [Accessed 20 Oct. 2019].
-En.wikipedia.org. (2019). Trans-Neptunian object. [online] Available at: https://en.wikipedia.org/wiki/Trans-Neptunian_object [Accessed 20 Oct. 2019].
+En.wikipedia.org. (2019). Trans-Neptunian object. [online] Available 
+at: https://en.wikipedia.org/wiki/Trans-Neptunian_object [Accessed 20 Oct. 2019].
 McKinney, J. (2015). Trans-Neptunian Space: Pushing the Boundaries of the Solar System. [online] Futurism. Available at: https://futurism.com/trans-neptunian-space-pushing-boundaries-solar-system [Accessed 20 Oct. 2019].
 Timmer, J. (2018). Ice volcanoes have likely been erupting for billions of years on Ceres. [online] Ars Technica. Available at: https://arstechnica.com/science/2018/09/ice-volcanoes-have-likely-been-erupting-for-billions-of-years-on-ceres/ [Accessed 20 Oct. 2019].
-Tech.sina.com.cn. (2019). 冥王星心形区域首次解密：充满一氧化碳和甲烷. [online] Available at: http://tech.sina.com.cn/d/s/2015-10-18/doc-ifxivsch3674450.shtml [Accessed 20 Oct. 2019].
+Tech.sina.com.cn. (2019). 冥王星心形区域首次解密：充满一氧化碳和甲烷. [online] Available 
+at: http://tech.sina.com.cn/d/s/2015-10-18/doc-ifxivsch3674450.shtml [Accessed 20 Oct. 2019].
 
